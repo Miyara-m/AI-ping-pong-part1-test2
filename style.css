@@ -1,0 +1,40 @@
+body
+{
+    background-size: cover;
+    text-align: center;
+}
+
+#title
+{
+ font-family: monospace;
+ color:darkred;
+ float: left;
+ display: inline;
+}
+#instructions
+{
+    color: darkred;
+    background-color: lightgreen;
+    font-family: monospace;
+    height:max-content;
+    width:max-content ;
+    font-size: 20px;
+    float: right;
+    margin-top:15px ;
+}
+
+#instruct
+{
+  width: 100%;
+}
+#start
+{
+   margin-bottom: 15px;
+   margin-top: 15px;
+   color: lightgreen;
+   background-color: darkslategray;
+   font-family: monospace;
+   border-color:mediumvioletred ;
+   border-width: 4px;
+   border-radius: 4px;
+}
